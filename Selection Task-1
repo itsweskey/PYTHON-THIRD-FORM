@@ -1,1 +1,15 @@
+code = "Batman" 
+user = input("Enter the secret code: ") 
+ 
+if user == "Batman": 
+    print("Access granted")
+
+
+
+
+ 
+ 
+
+ 
+ 
 
