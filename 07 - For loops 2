@@ -1,1 +1,47 @@
+Q1).
+
+c
+a
+t
+
+
+Q2). 
+
+word = "banana"
+count = 0
+for char in word:
+if char == "a":
+count = count + 1
+print(count) 
+
+Q3).
+
+d
+o
+g
+
+for character in "cat":
+    print(character)
+
+c
+a
+t
+
+Q4). 
+
+word = "cheese" 
+count = 0 
+for char in word: 
+    if char == "e": 
+        count = count + 1 
+print(count)  # Output: 3
+
+
+Q5).
+
+word = "Python"
+
+for char in word:
+    print(char)
+
 
